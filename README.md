@@ -55,9 +55,10 @@ This will install http-server globally so that it may be run from the command li
 
 
 ## Running
-In the Command-Line TYPE:
-1. "node combine.js"(JSON file partone.json and parttwo.json will be created)
-2. "http-server"
+In the Command-Line TYPE(After cloning and putting csv in directory):
+1. npm run lint
+2. npm run generate
+3. npm start
 
 # now open the link in the browser
 
