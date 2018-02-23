@@ -39,12 +39,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 A step by step series of examples that tell you have to get a development env running
 
-##Installation of http-server:
+### Installation of http-server:
 
 npm install http-server -g
 This will install http-server globally so that it may be run from the command line.
 
-##Install eslint and validate
+### Install eslint and validate
 1. Go to the root directory
 2. In the command Line type "npm init -y"
 3. type "npm install eslint"
@@ -59,7 +59,7 @@ In the Command-Line TYPE:
 1. "node combine.js"(JSON file partone.json and parttwo.json will be created)
 2. "http-server"
 
-now open the link in the browser
+# now open the link in the browser
 
 
 
