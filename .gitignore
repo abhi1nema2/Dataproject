@@ -1,4 +1,6 @@
 *.csv
 *.json
 !package.json
+!partone.json
+!parttwo.json
 node_modules/
